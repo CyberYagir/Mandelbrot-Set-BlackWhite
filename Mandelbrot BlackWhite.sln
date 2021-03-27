@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mandelbrot BlackWhite", "Mandelbrot BlackWhite.csproj", "{BA0460D8-7661-4697-BCD7-839751FA39A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0460D8-7661-4697-BCD7-839751FA39A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0460D8-7661-4697-BCD7-839751FA39A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0460D8-7661-4697-BCD7-839751FA39A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0460D8-7661-4697-BCD7-839751FA39A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E6E1693-D414-444E-BDA6-E9C6BA3E52C8}
+	EndGlobalSection
+EndGlobal

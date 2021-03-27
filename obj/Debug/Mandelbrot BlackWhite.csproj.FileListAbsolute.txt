@@ -1,0 +1,20 @@
+C:\Users\Ярослав\source\repos\Mandelbrot BlackWhite\bin\Debug\Mandelbrot BlackWhite.exe.config
+C:\Users\Ярослав\source\repos\Mandelbrot BlackWhite\bin\Debug\Mandelbrot BlackWhite.exe
+C:\Users\Ярослав\source\repos\Mandelbrot BlackWhite\bin\Debug\Mandelbrot BlackWhite.pdb
+C:\Users\Ярослав\source\repos\Mandelbrot BlackWhite\obj\Debug\Mandelbrot BlackWhite.csprojAssemblyReference.cache
+C:\Users\Ярослав\source\repos\Mandelbrot BlackWhite\obj\Debug\Mandelbrot_BlackWhite.Form1.resources
+C:\Users\Ярослав\source\repos\Mandelbrot BlackWhite\obj\Debug\Mandelbrot_BlackWhite.Properties.Resources.resources
+C:\Users\Ярослав\source\repos\Mandelbrot BlackWhite\obj\Debug\Mandelbrot BlackWhite.csproj.GenerateResource.cache
+C:\Users\Ярослав\source\repos\Mandelbrot BlackWhite\obj\Debug\Mandelbrot BlackWhite.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\Mandelbrot BlackWhite\obj\Debug\Mandelbrot BlackWhite.exe
+C:\Users\Ярослав\source\repos\Mandelbrot BlackWhite\obj\Debug\Mandelbrot BlackWhite.pdb
+E:\source\repos\Projects\Mandelbrot BlackWhite\bin\Debug\Mandelbrot BlackWhite.exe.config
+E:\source\repos\Projects\Mandelbrot BlackWhite\bin\Debug\Mandelbrot BlackWhite.exe
+E:\source\repos\Projects\Mandelbrot BlackWhite\bin\Debug\Mandelbrot BlackWhite.pdb
+E:\source\repos\Projects\Mandelbrot BlackWhite\obj\Debug\Mandelbrot BlackWhite.csprojAssemblyReference.cache
+E:\source\repos\Projects\Mandelbrot BlackWhite\obj\Debug\Mandelbrot_BlackWhite.Form1.resources
+E:\source\repos\Projects\Mandelbrot BlackWhite\obj\Debug\Mandelbrot_BlackWhite.Properties.Resources.resources
+E:\source\repos\Projects\Mandelbrot BlackWhite\obj\Debug\Mandelbrot BlackWhite.csproj.GenerateResource.cache
+E:\source\repos\Projects\Mandelbrot BlackWhite\obj\Debug\Mandelbrot BlackWhite.csproj.CoreCompileInputs.cache
+E:\source\repos\Projects\Mandelbrot BlackWhite\obj\Debug\Mandelbrot BlackWhite.exe
+E:\source\repos\Projects\Mandelbrot BlackWhite\obj\Debug\Mandelbrot BlackWhite.pdb
